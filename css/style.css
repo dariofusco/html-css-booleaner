@@ -1,0 +1,26 @@
+header {
+    background-image: url("../img/pattern.png");
+    background-size: contain;
+    background-color: lightblue;
+    font-size: 20px;
+}
+
+section {
+    color: lightgray;
+}
+
+.autore {
+    color: lightblue;
+}
+
+.evidenziato {
+    background-color: yellow;
+}
+
+thead {
+    background-color: blue;
+}
+
+.riga-evidenziata {
+    background-color: lightblue;
+}
