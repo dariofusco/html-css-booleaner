@@ -1,3 +1,9 @@
+main {
+    margin: 100px;
+}
+footer {
+    margin: 100px;
+}
 header {
     background-image: url("../img/pattern.png");
     background-size: contain;
