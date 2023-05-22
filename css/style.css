@@ -24,3 +24,19 @@ thead {
 .riga-evidenziata {
     background-color: lightblue;
 }
+
+.immagine1 {
+    background-image: url("../img/monitor.jpg");
+    background-size: cover;
+    color: white;
+    width: 150px;
+    height: 100px;
+}
+
+.immagine2 {
+    background-image: url("../img/graph.jpg");
+    background-size: cover;
+    color: white;
+    width: 150px;
+    height: 100px;
+}
