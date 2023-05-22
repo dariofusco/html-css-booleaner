@@ -1,3 +1,6 @@
+body {
+    margin: 100px;
+}
 header {
     background-image: url("../img/pattern.png");
     background-size: contain;
@@ -8,7 +11,10 @@ header {
 section {
     color: lightgray;
 }
+.descrizione-foto {
+    color: black;
 
+}
 .autore {
     color: lightblue;
 }
@@ -19,6 +25,7 @@ section {
 
 thead {
     background-color: blue;
+    color: white;
 }
 
 .riga-evidenziata {
